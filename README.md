@@ -1,12 +1,11 @@
 <h2> Hi! I'm Dasha, manual QA Engineer who is learning how to write automated tests on Python <span> ❤ </span> </h2>
 
-</a><img src="salem-saberhagen-salem-the-cat.gif" width="30"> 
-</em></p>
+![salem_gif](design/image/salem-saberhagen-salem-the-cat.gif)
 
 
 * ### Examples of my autotest projects
-#### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_spoonacular_test_project">Testing UI and API project for recipe site Spoonacular</a>
-#### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_python_9_15">UI testing project for online book store Chitai-gorod</a>
+    ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_spoonacular_test_project">UI and API testing project for recipe site Spoonacular</a>
+    ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_python_9_15">UI testing project for online book store Chitai-gorod</a>
 
 
 * ### My contacts
