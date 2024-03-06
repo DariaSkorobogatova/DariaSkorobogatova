@@ -6,7 +6,7 @@
 * ### Examples of my autotest projects
     - ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_spoonacular_test_project">UI and API testing project for recipe site Spoonacular</a>
     - ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_python_9_15">UI testing project for online book store Chitai-gorod</a>
-
+<br>
 
 * ### My contacts
 <code><a href="https://t.me/dasha_korobok"><img src="/design/icons/telegram.svg" width="40" height="40" title="My Telegram"></a></code>
