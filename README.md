@@ -1,6 +1,9 @@
 <h2> Hi! I'm Dasha, manual QA Engineer who is learning how to write automated tests on Python <span> ❤ </span> </h2>
 
-<img align="middle" src="design/salem-saberhagen-salem-the-cat.gif" alt="salem_gif" />
+<div id="header" align="center">
+  <img src="design/salem-saberhagen-salem-the-cat.gif" width="400"/>
+</div>
+
 
 
 * ### Examples of my autotest projects
