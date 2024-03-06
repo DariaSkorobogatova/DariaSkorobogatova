@@ -11,11 +11,11 @@
 * ### My contacts
 <table width="100%" border="0">
   <tr> 
-    <td width="70" height="70" valign="bottom"><img src="icons/mail.png" height="40" width="40"></td>
+    <td width="70" height="70" valign="bottom"><img src="/design/icons/mail.png" height="40" width="40"></td>
     <td width="200" height="70" valign="middle"><a href="mailto:daria.a.skorobogatova@gmail.com">daria.a.skorobogatova@gmail.com</a></td>
   </tr>
   <tr>
-    <td width="70" height="70" valign="bottom"><img src="icons/telegram.svg" height="40" width="40"></td>
+    <td width="70" height="70" valign="bottom"><img src="/design/icons/telegram.svg" height="40" width="40"></td>
     <td width="200" height="70" valign="middle"><a href="https://t.me/dasha_korobok">@dasha_korobok</a></td>
   </tr>
 </table>
