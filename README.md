@@ -9,16 +9,9 @@
 
 
 * ### My contacts
-<table width="100%" border="0">
-  <tr> 
-    <td width="70" height="70" valign="bottom"><img src="/design/icons/mail.png" height="40" width="40"></td>
-    <td width="200" height="70" valign="middle"><a href="mailto:daria.a.skorobogatova@gmail.com">daria.a.skorobogatova@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td width="70" height="70" valign="bottom"><img src="/design/icons/telegram.svg" height="40" width="40"></td>
-    <td width="200" height="70" valign="middle"><a href="https://t.me/dasha_korobok">@dasha_korobok</a></td>
-  </tr>
-</table>
+<code><a href="https://t.me/dasha_korobok"><img src="/design/icons/telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="mailto:daria.a.skorobogatova@gmail.com" target="blank"><img src="/design/icons/gmail.svg" height="40" width="40" title="My email"></a></code>
+
 
 
 * ### Tools and Technologies
