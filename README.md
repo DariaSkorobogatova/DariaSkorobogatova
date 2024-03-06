@@ -4,8 +4,8 @@
 
 
 * ### Examples of my autotest projects
-    ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_spoonacular_test_project">UI and API testing project for recipe site Spoonacular</a>
-    ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_python_9_15">UI testing project for online book store Chitai-gorod</a>
+    - ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_spoonacular_test_project">UI and API testing project for recipe site Spoonacular</a>
+    - ### <a target="_blank" href="https://github.com/DariaSkorobogatova/qa_guru_python_9_15">UI testing project for online book store Chitai-gorod</a>
 
 
 * ### My contacts
